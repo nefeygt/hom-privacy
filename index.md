@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for HOM
 
-**Last updated: 16 September 2026**
+**Last updated: 26 September 2026**
 
 ---
 
@@ -53,9 +53,9 @@ advertising profile built from it.
 The game sends **Unity Analytics** a small set of events about how the game itself is played, so we
 can tell which levels are too hard and whether the game is worth continuing to make. These are
 events such as: a level was started, won or lost and which number it was; a booster was used; an ad
-was offered and how it ended; an in-app purchase completed; a piece of furniture was bought; a daily
-gift was collected. They are accompanied by standard technical information — device model, operating
-system, and an identifier for the installation.
+was offered and how it ended; the shop was opened, a purchase was started and how it ended; a piece of
+furniture was bought; a daily gift was collected. They are accompanied by standard technical
+information — device model, operating system, and an identifier for the installation.
 
 **None of these events contains anything you have typed or anything that identifies you as a person**,
 because the game never asks you for anything.
@@ -72,13 +72,14 @@ that a purchase for this app completed, so the game can give you what you bought
 
 If you are in a region whose law requires it — the European Economic Area, the United Kingdom, and
 certain other jurisdictions — the game will show you a consent form the first time you open it,
-before any advertising or analytics data is collected. You can accept or refuse, and **refusing does
-not restrict the game in any way**: you will still see ads, they will simply not be personalised.
+before any advertising or analytics data is collected. You can consent, refuse with **Do not
+consent**, or choose **Manage options** to decide purpose by purpose, and **refusing does not restrict
+the game in any way**: you will still see ads, they will simply not be personalised.
 
 The form is provided by **Google's User Messaging Platform**, and your choice is passed on to Unity
-and to the advertising networks in the mediation. If you want to change your answer afterwards, you
-can turn off ad personalisation for every app from your device settings, and reset your advertising
-identifier there at any time — both are described below.
+and to the advertising networks in the mediation. **You can change your answer at any time from the
+game itself**: open the shop (the **+** beside your coins on the home screen) and choose **Privacy
+settings**. That button appears wherever the consent form does.
 
 ### Opting out of personalised ads
 
